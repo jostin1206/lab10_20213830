@@ -5,9 +5,9 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
+<h1><%= "Laboratorio número 10" %>
 </h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+<a href="JugadorServlet">Mostrar la lista de jugadores</a>
 </body>
 </html>
